@@ -4,21 +4,22 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00E084&background=00000000&center=true&vCenter=true&width=640&lines=Travel+Tech+Entrepreneur+%26+Builder;Automation+that+runs+a+real+business;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+ESP32" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00E084&background=00000000&center=true&vCenter=true&width=640&lines=Travel+Tech+Entrepreneur+%26+Builder;AI+agents+that+run+a+real+business;Automation+that+runs+a+real+business;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+ESP32" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <p>I'm a travel-tech entrepreneur who writes the software behind the business — booking engines, supplier panels, pricing automation and WhatsApp bots. On the side I build hardware and apps: a <strong>camera-free Wi-Fi presence sensor</strong> for Apple Home on ESP32-C6, an open-source <strong>Tesla CAN-bus mod</strong>, a Bluetooth EV dashboard for iOS, <strong>Rendi</strong> — a Turkish dating app launching on iOS and Android — and a Turkish EV channel that answers one question with real numbers: <em>should I go electric?</em></p>
+  <p>I'm a travel-tech entrepreneur who writes the software behind the business — booking engines, supplier panels, pricing automation and WhatsApp bots. On the side I build hardware and apps: <strong>real Android in the Tesla browser</strong> on a Raspberry Pi 5, a toolkit that lets <strong>Claude Code drive a real iPhone</strong>, a <strong>camera-free Wi-Fi presence sensor</strong> for Apple Home on ESP32-C6, an open-source <strong>Tesla CAN-bus mod</strong>, a Bluetooth EV dashboard for iOS, <strong>Rendi</strong> — a Turkish dating app launching on iOS and Android — and a Turkish EV channel that answers one question with real numbers: <em>should I go electric?</em></p>
 </div>
 
 <div align="center">
-  <p><sub>🇹🇷 Seyahat teknolojisi alanında girişimciyim; işi çalıştıran yazılımı kendim yazıyorum: rezervasyon motoru, tedarikçi paneli, fiyat otomasyonu, WhatsApp botları. Yanında donanım ve uygulama geliştiriyorum: ESP32-C6 ile Apple Home'a kamerasız Wi-Fi varlık sensörü, açık kaynak Tesla CAN modu, iOS için Bluetooth EV göstergesi, iOS ve Android'de yayına hazırlanan flört uygulaması <a href="https://rendi.com.tr">Rendi</a> ve gerçek rakamlarla "elektrikliye geçmeli miyim?" sorusuna cevap veren <a href="https://youtube.com/@yakitsiz">Yakıtsız</a> kanalı.</sub></p>
+  <p><sub>🇹🇷 Seyahat teknolojisi alanında girişimciyim; işi çalıştıran yazılımı kendim yazıyorum: rezervasyon motoru, tedarikçi paneli, fiyat otomasyonu, WhatsApp botları. Yanında donanım ve uygulama geliştiriyorum: Raspberry Pi 5 ile Tesla tarayıcısında gerçek Android, Claude Code'a gerçek iPhone'u kullandıran araç seti, ESP32-C6 ile Apple Home'a kamerasız Wi-Fi varlık sensörü, açık kaynak Tesla CAN modu, iOS için Bluetooth EV göstergesi, iOS ve Android'de yayına hazırlanan flört uygulaması <a href="https://rendi.com.tr">Rendi</a> ve gerçek rakamlarla "elektrikliye geçmeli miyim?" sorusuna cevap veren <a href="https://youtube.com/@yakitsiz">Yakıtsız</a> kanalı.</sub></p>
 </div>
 
 <br/>
 
 <div align="center">
+  <a href="https://x.com/tuncabildik"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.linkedin.com/in/tuncabildik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:tunca.bildik@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://youtube.com/@yakitsiz"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
@@ -31,6 +32,28 @@
 </div>
 
 <table align="center">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <h3>🚗 <a href="https://github.com/tuncasoftbildik/tesla-android-pi5">Android in a Tesla</a></h3>
+      <p>Real <strong>Android 13</strong> in the Tesla browser, running on a <strong>Raspberry Pi 5</strong> with Waydroid — touch, audio and GPS, and it keeps working while driving. Patched ws-scrcpy, a password gate and a Cloudflare tunnel.</p>
+      <p>
+        <a href="https://github.com/tuncasoftbildik/tesla-android-pi5/stargazers"><img src="https://img.shields.io/github/stars/tuncasoftbildik/tesla-android-pi5?style=social" alt="Stars"/></a>
+        <img src="https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi 5"/>
+        <img src="https://img.shields.io/badge/license-GPL--3.0-3da639?style=flat-square" alt="GPL-3.0"/>
+      </p>
+      <code>720p · 30 fps · WebCodecs</code>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/tuncasoftbildik/iphone-claude-code">iPhone × Claude Code</a></h3>
+      <p>Let <strong>Claude Code</strong> use your real iPhone, wirelessly — it sees the screen, taps, swipes and types through <strong>WebDriverAgent</strong>. Test your own apps end to end or grab App Store screenshots.</p>
+      <p>
+        <a href="https://github.com/tuncasoftbildik/iphone-claude-code/stargazers"><img src="https://img.shields.io/github/stars/tuncasoftbildik/iphone-claude-code?style=social" alt="Stars"/></a>
+        <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+        <img src="https://img.shields.io/badge/license-MIT-3da639?style=flat-square" alt="MIT"/>
+      </p>
+      <code>no cable, real device</code>
+    </td>
+  </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>📡 <a href="https://github.com/tuncasoftbildik/esp32c6-wifi-csi-apple-home">Wi-Fi CSI Presence</a></h3>
