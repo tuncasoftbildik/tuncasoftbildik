@@ -9,11 +9,11 @@
 </div>
 
 <div align="center">
-  <p>I'm a travel-tech entrepreneur who writes the software behind the business — booking engines, supplier panels, pricing automation and WhatsApp bots. On the side I build hardware and apps: <strong>real Android in the Tesla browser</strong> on a Raspberry Pi 5, a toolkit that lets <strong>Claude Code drive a real iPhone</strong>, a <strong>camera-free Wi-Fi presence sensor</strong> for Apple Home on ESP32-C6, an open-source <strong>Tesla CAN-bus mod</strong>, a Bluetooth EV dashboard for iOS, <strong>Rendi</strong> — a Turkish dating app launching on iOS and Android — and a Turkish EV channel that answers one question with real numbers: <em>should I go electric?</em></p>
+  <p>I'm a travel-tech entrepreneur who writes the software behind the business — booking engines, supplier panels, pricing automation and WhatsApp bots. On the side I build hardware and apps: <strong>Pervane</strong>, an open-source fan controller for macOS, <strong>real Android in the Tesla browser</strong> on a Raspberry Pi 5, a toolkit that lets <strong>Claude Code drive a real iPhone</strong>, a <strong>camera-free Wi-Fi presence sensor</strong> for Apple Home on ESP32-C6, an open-source <strong>Tesla CAN-bus mod</strong>, a Bluetooth EV dashboard for iOS, <strong>Rendi</strong> — a Turkish dating app launching on iOS and Android — and a Turkish EV channel that answers one question with real numbers: <em>should I go electric?</em></p>
 </div>
 
 <div align="center">
-  <p><sub>🇹🇷 Seyahat teknolojisi alanında girişimciyim; işi çalıştıran yazılımı kendim yazıyorum: rezervasyon motoru, tedarikçi paneli, fiyat otomasyonu, WhatsApp botları. Yanında donanım ve uygulama geliştiriyorum: Raspberry Pi 5 ile Tesla tarayıcısında gerçek Android, Claude Code'a gerçek iPhone'u kullandıran araç seti, ESP32-C6 ile Apple Home'a kamerasız Wi-Fi varlık sensörü, açık kaynak Tesla CAN modu, iOS için Bluetooth EV göstergesi, iOS ve Android'de yayına hazırlanan flört uygulaması <a href="https://rendi.com.tr">Rendi</a> ve gerçek rakamlarla "elektrikliye geçmeli miyim?" sorusuna cevap veren <a href="https://youtube.com/@yakitsiz">Yakıtsız</a> kanalı.</sub></p>
+  <p><sub>🇹🇷 Seyahat teknolojisi alanında girişimciyim; işi çalıştıran yazılımı kendim yazıyorum: rezervasyon motoru, tedarikçi paneli, fiyat otomasyonu, WhatsApp botları. Yanında donanım ve uygulama geliştiriyorum: macOS için açık kaynak fan kontrolü <a href="https://github.com/tuncasoftbildik/pervane">Pervane</a>, Raspberry Pi 5 ile Tesla tarayıcısında gerçek Android, Claude Code'a gerçek iPhone'u kullandıran araç seti, ESP32-C6 ile Apple Home'a kamerasız Wi-Fi varlık sensörü, açık kaynak Tesla CAN modu, iOS için Bluetooth EV göstergesi, iOS ve Android'de yayına hazırlanan flört uygulaması <a href="https://rendi.com.tr">Rendi</a> ve gerçek rakamlarla "elektrikliye geçmeli miyim?" sorusuna cevap veren <a href="https://youtube.com/@yakitsiz">Yakıtsız</a> kanalı.</sub></p>
 </div>
 
 <br/>
@@ -32,6 +32,20 @@
 </div>
 
 <table align="center">
+  <tr>
+    <td align="center" colspan="2" valign="top">
+      <h3>🌀 <a href="https://github.com/tuncasoftbildik/pervane">Pervane</a> <sup>new</sup></h3>
+      <a href="https://github.com/tuncasoftbildik/pervane"><img src="https://raw.githubusercontent.com/tuncasoftbildik/pervane/main/docs/simge.png" width="72" alt="Pervane icon"/></a>
+      <p>Open-source <strong>fan control for macOS</strong>: drag a temperature curve, switch profiles automatically when an app starts or you go on battery, and let an <strong>emergency brake</strong> take over when it gets too hot. Menu bar app + CLI, no dependencies.</p>
+      <p>
+        <a href="https://github.com/tuncasoftbildik/pervane/stargazers"><img src="https://img.shields.io/github/stars/tuncasoftbildik/pervane?style=social" alt="Stars"/></a>
+        <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
+        <img src="https://img.shields.io/badge/macOS%2014%2B-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS 14+"/>
+        <img src="https://img.shields.io/badge/license-MIT-3da639?style=flat-square" alt="MIT"/>
+      </p>
+      <code>curves · auto-switch rules · CLI</code>
+    </td>
+  </tr>
   <tr>
     <td align="center" width="50%" valign="top">
       <h3>🚗 <a href="https://github.com/tuncasoftbildik/tesla-android-pi5">Android in a Tesla</a></h3>
