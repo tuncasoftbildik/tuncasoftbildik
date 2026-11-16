@@ -117,6 +117,15 @@
 <br/>
 
 <div align="center">
+  <h2>Certifications</h2>
+  <a href="https://www.credly.com/badges/b3ce05a4-7fe6-4a61-b96d-7b7d92b067ce"><img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="120" alt="Cisco Ethical Hacker badge"/></a>
+  <p><strong>Cisco Ethical Hacker</strong> · Cisco Networking Academy · Nov 2026<br/>
+  <sub>Penetration testing · Vulnerability assessment · Social engineering · Exploiting networks & applications · IoT security · Reporting</sub></p>
+</div>
+
+<br/>
+
+<div align="center">
   <h2>Languages & Tools</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,swift,js,ts,react,nextjs,androidstudio,tailwind,cpp,arduino,bash,postgres,supabase,sqlite,redis,docker,aws,gcp,nginx,raspberrypi,linux,git,github,vscode,figma&perline=13&theme=dark" alt="Languages and tools" />
