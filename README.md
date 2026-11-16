@@ -31,8 +31,9 @@
   <h2>Certifications</h2>
   <a href="https://www.credly.com/badges/b3ce05a4-7fe6-4a61-b96d-7b7d92b067ce"><img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="120" alt="Cisco Ethical Hacker badge"/></a>
   <a href="https://www.credly.com/badges/a6b1a877-b360-4606-9824-31c28df64d67"><img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="120" alt="Cisco Endpoint Security badge"/></a>
-  <p><strong>Cisco Ethical Hacker</strong> · <strong>Cisco Endpoint Security</strong> · Cisco Networking Academy · Nov 2026<br/>
-  <sub>Penetration testing · Vulnerability assessment · Social engineering · Endpoint & host protection · Windows/Linux security · Network security infrastructure</sub></p>
+  <a href="https://www.credly.com/badges/60df774e-b17d-4f12-a41b-c158b9c69b55"><img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="120" alt="Cisco Cyber Threat Management badge"/></a>
+  <p><strong>Cisco Ethical Hacker</strong> · <strong>Cisco Endpoint Security</strong> · <strong>Cisco Cyber Threat Management</strong> · Cisco Networking Academy · Nov 2026<br/>
+  <sub>Penetration testing · Vulnerability assessment · Social engineering · Endpoint & host protection · Threat intelligence · Risk management · Digital forensics & incident response</sub></p>
 </div>
 
 <br/>
