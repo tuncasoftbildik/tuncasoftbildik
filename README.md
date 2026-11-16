@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00E084&background=00000000&center=true&vCenter=true&width=640&lines=Travel+Tech+Entrepreneur+%26+Builder;AI+agents+that+run+a+real+business;Automation+that+runs+a+real+business;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+ESP32" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=00E084&background=00000000&center=true&vCenter=true&width=640&lines=Travel+Tech+CTO+%26+Builder;Cybersecurity+%C2%B7+Ethical+Hacking;5%C3%97+Cisco+Networking+Academy+credentials;AI+agents+that+run+a+real+business;Python+%C2%B7+TypeScript+%C2%B7+Swift+%C2%B7+ESP32" alt="Typing SVG" />
   </a>
 </div>
 
@@ -36,6 +36,36 @@
   <a href="https://www.credly.com/badges/4f41ae55-f7c6-470a-8888-ee0b2ba21ef1"><img src="https://images.credly.com/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="120" alt="Cisco Network Defense badge"/></a>
   <p><strong>Cisco Junior Cybersecurity Analyst Career Path</strong> · <strong>Cisco Ethical Hacker</strong> · <strong>Cisco Endpoint Security</strong> · <strong>Cisco Cyber Threat Management</strong> · <strong>Cisco Network Defense</strong> · Cisco Networking Academy · Nov 2026<br/>
   <sub>Penetration testing · Vulnerability assessment · Social engineering · Endpoint & host protection · Threat intelligence · Risk management · Digital forensics & incident response · Firewalls & ACLs · Cloud security · Cryptography</sub></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>Security</h2>
+  <p>Authorized penetration testing for private companies — external attack surface, web applications, network defense — backed by digital forensics training.<br/>
+  Authorization comes first: no signed scope and no proof from the owner, no scan.</p>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <h3>🛡️ <a href="https://github.com/tuncasoftbildik/scopeguard">scopeguard</a> <sup>new</sup></h3>
+      <a href="https://github.com/tuncasoftbildik/scopeguard"><img src="https://raw.githubusercontent.com/tuncasoftbildik/scopeguard/main/docs/demo.png" width="640" alt="scopeguard allowing an in-scope host, refusing a look-alike domain and an excluded host, then refusing everything once the owner deletes the DNS record"/></a>
+      <p><strong>Refuse to test what you are not authorized to test.</strong> A wrapper for pentest tools: a command runs only when the target is in the agreed scope, the time window is open and the owner still publishes a <strong>DNS record that vouches for the engagement</strong> — delete the record and the work stops. Comes with rules-of-engagement and report templates in English and Turkish.</p>
+      <p>
+        <a href="https://github.com/tuncasoftbildik/scopeguard/stargazers"><img src="https://img.shields.io/github/stars/tuncasoftbildik/scopeguard?style=social" alt="Stars"/></a>
+        <a href="https://github.com/tuncasoftbildik/scopeguard/actions/workflows/tests.yml"><img src="https://github.com/tuncasoftbildik/scopeguard/actions/workflows/tests.yml/badge.svg" alt="tests"/></a>
+        <img src="https://img.shields.io/badge/Python%203.11%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.11+"/>
+        <img src="https://img.shields.io/badge/dependencies-none-00E084?style=flat-square" alt="No dependencies"/>
+        <img src="https://img.shields.io/badge/license-MIT-3da639?style=flat-square" alt="MIT"/>
+      </p>
+      <code>scopeguard run app.example.com -- nmap -sV {}</code>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <p><sub>Hardware side of the same curiosity: <a href="https://github.com/tuncasoftbildik/tesla-can-mod">CAN bus</a> · <a href="https://github.com/tuncasoftbildik/esp32c6-wifi-csi-apple-home">Wi-Fi CSI sensing</a></sub></p>
 </div>
 
 <br/>
