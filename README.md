@@ -34,7 +34,8 @@
   <a href="https://www.credly.com/badges/a6b1a877-b360-4606-9824-31c28df64d67"><img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="120" alt="Cisco Endpoint Security badge"/></a>
   <a href="https://www.credly.com/badges/60df774e-b17d-4f12-a41b-c158b9c69b55"><img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="120" alt="Cisco Cyber Threat Management badge"/></a>
   <a href="https://www.credly.com/badges/4f41ae55-f7c6-470a-8888-ee0b2ba21ef1"><img src="https://images.credly.com/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="120" alt="Cisco Network Defense badge"/></a>
-  <p><strong>Cisco Junior Cybersecurity Analyst Career Path</strong> · <strong>Cisco Ethical Hacker</strong> · <strong>Cisco Endpoint Security</strong> · <strong>Cisco Cyber Threat Management</strong> · <strong>Cisco Network Defense</strong> · Cisco Networking Academy · Nov 2026<br/>
+  <a href="https://www.credly.com/badges/a33e420b-2b41-4f7f-a798-2f75b8ed6d06"><img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="120" alt="IBM SkillsBuild Cybersecurity Fundamentals badge"/></a>
+  <p><strong>Cisco Junior Cybersecurity Analyst Career Path</strong> · <strong>Cisco Ethical Hacker</strong> · <strong>Cisco Endpoint Security</strong> · <strong>Cisco Cyber Threat Management</strong> · <strong>Cisco Network Defense</strong> · Cisco Networking Academy · <strong>IBM Cybersecurity Fundamentals</strong> · IBM SkillsBuild · Nov 2026<br/>
   <sub>Penetration testing · Vulnerability assessment · Social engineering · Endpoint & host protection · Threat intelligence · Risk management · Digital forensics & incident response · Firewalls & ACLs · Cloud security · Cryptography</sub></p>
 </div>
 
