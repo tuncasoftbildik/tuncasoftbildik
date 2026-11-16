@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Tunca Bildik — Travel Tech Entrepreneur · Builder · EV & Automation">
+  <img src="banner.png" width="100%" alt="Tunca Bildik — Travel Tech CTO · Builder · Cybersecurity · 5 Cisco Networking Academy credentials">
 </div>
 
 <div align="center">
