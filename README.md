@@ -28,6 +28,16 @@
 <br/>
 
 <div align="center">
+  <h2>Certifications</h2>
+  <a href="https://www.credly.com/badges/b3ce05a4-7fe6-4a61-b96d-7b7d92b067ce"><img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="120" alt="Cisco Ethical Hacker badge"/></a>
+  <a href="https://www.credly.com/badges/a6b1a877-b360-4606-9824-31c28df64d67"><img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="120" alt="Cisco Endpoint Security badge"/></a>
+  <p><strong>Cisco Ethical Hacker</strong> · <strong>Cisco Endpoint Security</strong> · Cisco Networking Academy · Nov 2026<br/>
+  <sub>Penetration testing · Vulnerability assessment · Social engineering · Endpoint & host protection · Windows/Linux security · Network security infrastructure</sub></p>
+</div>
+
+<br/>
+
+<div align="center">
   <h2>Featured Projects</h2>
 </div>
 
@@ -113,16 +123,6 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <h2>Certifications</h2>
-  <a href="https://www.credly.com/badges/b3ce05a4-7fe6-4a61-b96d-7b7d92b067ce"><img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="120" alt="Cisco Ethical Hacker badge"/></a>
-  <a href="https://www.credly.com/badges/a6b1a877-b360-4606-9824-31c28df64d67"><img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="120" alt="Cisco Endpoint Security badge"/></a>
-  <p><strong>Cisco Ethical Hacker</strong> · <strong>Cisco Endpoint Security</strong> · Cisco Networking Academy · Nov 2026<br/>
-  <sub>Penetration testing · Vulnerability assessment · Social engineering · Endpoint & host protection · Windows/Linux security · Network security infrastructure</sub></p>
-</div>
 
 <br/>
 
