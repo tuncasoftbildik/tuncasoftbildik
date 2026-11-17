@@ -29,13 +29,16 @@
 
 <div align="center">
   <h2>Certifications</h2>
+  <a href="https://www.credly.com/badges/2f324b76-8d76-445a-a3a0-6ec2da940926"><img src="https://images.credly.com/images/0dc7965b-8507-4312-9c12-1add6c50fa49/blob" width="120" alt="Fortinet NSE 1 Certified in Cybersecurity badge"/></a>
+  <a href="https://www.credly.com/badges/b7aba07b-958c-4885-92e4-448df2f6d77a"><img src="https://images.credly.com/images/86f2702d-4c21-4d3a-af71-f581a9e62e12/blob" width="120" alt="Fortinet Cybersecurity and Cloud Fundamentals 1.0 badge"/></a>
   <a href="https://www.credly.com/badges/29ff306a-1a65-4da6-88af-765483c08efd"><img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="120" alt="Cisco Junior Cybersecurity Analyst Career Path badge"/></a>
   <a href="https://www.credly.com/badges/b3ce05a4-7fe6-4a61-b96d-7b7d92b067ce"><img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="120" alt="Cisco Ethical Hacker badge"/></a>
   <a href="https://www.credly.com/badges/a6b1a877-b360-4606-9824-31c28df64d67"><img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="120" alt="Cisco Endpoint Security badge"/></a>
   <a href="https://www.credly.com/badges/60df774e-b17d-4f12-a41b-c158b9c69b55"><img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="120" alt="Cisco Cyber Threat Management badge"/></a>
   <a href="https://www.credly.com/badges/4f41ae55-f7c6-470a-8888-ee0b2ba21ef1"><img src="https://images.credly.com/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="120" alt="Cisco Network Defense badge"/></a>
   <a href="https://www.credly.com/badges/a33e420b-2b41-4f7f-a798-2f75b8ed6d06"><img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/image.png" width="120" alt="IBM SkillsBuild Cybersecurity Fundamentals badge"/></a>
-  <p><strong>Cisco Junior Cybersecurity Analyst Career Path</strong> · <strong>Cisco Ethical Hacker</strong> · <strong>Cisco Endpoint Security</strong> · <strong>Cisco Cyber Threat Management</strong> · <strong>Cisco Network Defense</strong> · Cisco Networking Academy · <strong>IBM Cybersecurity Fundamentals</strong> · IBM SkillsBuild · Nov 2026<br/>
+  <p><strong>Fortinet NSE 1 Certified in Cybersecurity</strong> · <strong>Fortinet Cybersecurity and Cloud Fundamentals 1.0</strong> · Fortinet Training Institute<br/>
+  <strong>Cisco Junior Cybersecurity Analyst Career Path</strong> · <strong>Cisco Ethical Hacker</strong> · <strong>Cisco Endpoint Security</strong> · <strong>Cisco Cyber Threat Management</strong> · <strong>Cisco Network Defense</strong> · Cisco Networking Academy · <strong>IBM Cybersecurity Fundamentals</strong> · IBM SkillsBuild · Nov 2026<br/>
   <sub>Penetration testing · Vulnerability assessment · Social engineering · Endpoint & host protection · Threat intelligence · Risk management · Digital forensics & incident response · Firewalls & ACLs · Cloud security · Cryptography</sub></p>
 </div>
 
